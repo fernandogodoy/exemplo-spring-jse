@@ -1,3 +1,3 @@
 # ExemploSpringJSE
 
-Exemplo de utilização de inejeção de dependências com Spring Framework e JSE
+Exemplo de utilização de injeção de dependências com Spring Framework e Java (JSE)
